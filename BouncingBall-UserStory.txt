@@ -1,0 +1,4 @@
+User story 1: As a super user, I want to know how long it take to paint a single frame so that I know the perfomance of the program.
+User story 2: As a user, I want the shape of the pointer trail is a circle.
+User story 3: As a user, I want the size of the ball is 30px so that I can see it in a small window.
+User story 4: As a user, I want the color of the background is light blue.
